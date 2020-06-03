@@ -260,7 +260,7 @@ Dotech Business Systems in its mission to give customers total satisfaction has 
     			<div class="col-md-12 col-lg-6 half p-3 py-5 pl-lg-5 ftco-animate heading-section heading-section-white">
     				<span class="subheading">Talk to us now</span>
     				<h2 class="mb-4">Free Consultation</h2>
-    				<form action="#" class="appointment">
+    				<form action="#" class="appointment" id="book_appointment">
     					<div class="row">
     						<div class="col-md-12">
 									<div class="form-group">
